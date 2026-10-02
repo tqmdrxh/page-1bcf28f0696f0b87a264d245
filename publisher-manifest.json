@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "c0fdf6d379f2e4693b3aed54",
+  "owner": "tqmdrxh",
+  "repo": "page-1bcf28f0696f0b87a264d245",
+  "title": "麦当当",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1bcf28f0696f0b87a264d245",
+      "a": "麦当当",
+      "b": "",
+      "entity": "麦当当",
+      "brand": "麦当当",
+      "separator": "",
+      "path": "index.html",
+      "hash": "9fdc817549d232d07078e09e80d802c18bb430f7ff055e681c5dd7f9e8d7ffb9",
+      "content": {
+        "keyword1": "麦当当",
+        "keyword2": "",
+        "primary_entity": "麦当当",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "麦当当提供稳定可靠的机场订阅服务与VPN加速器，支持多端客户端下载，覆盖流媒体解锁、游戏加速等场景，套餐灵活，欢迎访问官网获取官方下载。",
+          "AI_DESCRIPTION": "麦当当提供稳定可靠的机场订阅服务与VPN加速器，支持多端客户端下载，覆盖流媒体解锁、游戏加速等场景，套餐灵活，欢迎访问官网获取官方下载。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:system-ui,-apple-system,sans-serif;background:#f3f4f6;color:#1f2937;font-size:16px;line-height:1.65;overflow-x:hidden}header,footer{background:#ede9fe;padding:12px 16px;text-align:center}header{border-bottom:1px solid #c4b5fd}nav a{color:#5b21b6;margin:0 8px;text-decoration:none;font-size:14px}main{max-width:720px;margin:0 auto;padding:20px 16px}h1{font-size:28px;color:#5b21b6;margin-bottom:12px;text-align:center}h2{font-size:22px;color:#6d28d9;margin:28px 0 12px;padding-bottom:6px;border-bottom:1px solid #ddd6fe}h3{font-size:18px;color:#7c3aed;margin:16px 0 8px}p,li{margin-bottom:10px}ul,ol{padding-left:20px;margin-bottom:16px}.plan{background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:16px;margin-bottom:16px}.plan.featured{border:2px solid #7c3aed;background:#f5f3ff}.price{font-size:24px;font-weight:bold;color:#5b21b6;margin:8px 0}.annual{font-size:14px;color:#6b7280}.features{list-style:none;padding:0}.features li{padding:4px 0;border-bottom:1px dashed #eee}details{background:#fff;border:1px solid #e5e7eb;border-radius:6px;padding:12px 16px;margin-bottom:10px}summary{font-weight:600;color:#4c1d95}.step{position:relative;padding-left:48px;margin-bottom:20px}.step:before{content:\"\";position:absolute;left:0;top:2px;width:32px;height:32px;background:#7c3aed;color:#fff;border-radius:50%;text-align:center;line-height:32px;font-weight:bold;font-size:16px}.s1:before{content:\"1\"}.s2:before{content:\"2\"}.s3:before{content:\"3\"}.s4:before{content:\"4\"}.s5:before{content:\"5\"}#ads,#links{background:#fff;padding:16px;border-radius:8px;margin-top:20px}footer{font-size:13px;color:#4b5563;margin-top:30px}footer a{color:#6d28d9;text-decoration:none;margin:0 4px}@media(max-width:480px){h1{font-size:24px}h2{font-size:20px}nav a{display:inline-block;margin:4px}}</style><header><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#steps\">步骤</a><a href=\"#plans\">套餐</a><a href=\"#download\">下载</a><a href=\"#faq\">FAQ</a></nav></header><main><h1>麦当当</h1><p>官方网站 · 机场订阅 · VPN网络加速 · 客户端下载</p><section id=\"intro\"><h2>品牌简介</h2><p>麦当当是面向全球用户的专业网络加速服务，采用机场订阅模式提供稳定VPN梯子与多协议节点。我们坚持官方直营，节点覆盖亚洲、北美与欧洲主要地区，帮助用户流畅访问国际流媒体、进行游戏加速以及安全远程办公。麦当当官网是获取正版订阅与客户端指引的唯一推荐渠道，避免第三方风险。</p><p>与传统单一VPN不同，麦当当让用户通过一次订阅导入全部线路，随时切换最优节点。服务注重速度与稳定性平衡，普通线路适合日常浏览，专线优化适合对延迟敏感的场景。无论个人轻度使用还是团队共享，均可在清晰套餐中找到匹配方案。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体解锁观看</h3><p>旗舰版与团队版支持全节点原生解锁，便于观看高清影片与系列内容，减少缓冲。基础版覆盖常见平台基础需求。</p><h3>游戏与实时应用加速</h3><p>IPLC类专线降低国际游戏延迟与丢包，适合需要稳定UDP转发的对战与语音场景。团队版额外提供高带宽VIP节点。</p><h3>多设备办公与学习</h3><p>同一订阅可同时在线多台设备，方便家庭或小团队使用。支持分流规则，国内流量直连以节省额度。</p><h3>隐私保护日常上网</h3><p>加密传输保护连接安全，便于访问全球公开资讯与工具，同时保持较低使用门槛。</p></section><section id=\"steps\"><h2>操作说明</h2><p>按照以下纵向步骤，即可在麦当当官网完成从选购到连接的全过程。</p><div class=\"step s1\"><h3>对比并选择套餐</h3><p>查看本页套餐对比，确认流量、同时在线设备数与线路类型。支持月付与年付，年付可节省开支。订阅成功后立即获得专属链接。</p></div><div class=\"step s2\"><h3>获取官方客户端</h3><p>根据设备系统选择兼容工具。请通过麦当当官网指引使用知名开源或常用客户端，不要从不明站点下载安装包。</p></div><div class=\"step s3\"><h3>导入机场订阅</h3><p>复制订阅地址，在客户端选择从URL更新或二维码导入。推荐使用支持自动分流的Clash类工具，一次导入即可管理全部节点。</p></div><div class=\"step s4\"><h3>测试节点并连接</h3><p>更新订阅后查看延迟，选择当前最优线路点击连接。可根据使用场景切换普通节点或游戏专线。</p></div><div class=\"step s5\"><h3>保持更新与支持</h3><p>定期刷新订阅以同步节点变化。遇到问题先尝试换节点或更新客户端，仍需帮助时提交工单，高级套餐享优先响应。</p></div></section><section id=\"plans\"><h2>套餐对比</h2><p>麦当当提供三种明确套餐，方便直接对比流量、设备与线路能力。所有方案均含加密传输与基础加速，年付价格更优惠。旗舰版在流量、解锁与游戏优化之间取得平衡，适合大多数用户。</p><article class=\"plan\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul class=\"features\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版（推荐）</h3><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul class=\"features\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul class=\"features\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></section><section id=\"download\"><h2>客户端下载</h2><p>麦当当不直接托管可执行安装包，以降低安全风险。请使用下列主流兼容客户端，导入官网提供的订阅即可。下载时请选择项目官方或可信来源，并核对版本信息。</p><ul><li>Windows：Clash Verge、V2RayN 等</li><li>macOS：ClashX Meta、Stash 等</li><li>Android：Clash Meta for Android 等</li><li>iOS：Shadowrocket、Quantumult X、Stash 等</li><li>路由器与 Linux：Clash 核心或常见插件</li></ul><p>导入后开启自动更新订阅，即可同步麦当当最新节点。更多细节见上方操作说明。</p></section><section><h2>节点与加速表现</h2><p>麦当当节点包含常规优化线路与部分专线。基础版使用普通节点池满足浏览与轻度视频；旗舰版开放全量节点并强化游戏向优化；团队版增加VIP高带宽选项并支持定制分流。我们持续维护线路质量，晚高峰仍力求保持可用吞吐量，流量按实际使用计量，无额外隐藏扣减。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>麦当当如何确认是官方网站与安全下载？</summary><p>请收藏并仅通过本页（麦当当官网）获取订阅与指引。我们不在第三方应用商店或网盘分发客户端安装包，建议使用开源知名工具导入订阅，降低风险。</p></details><details><summary>三个套餐该如何选择？</summary><p>轻度个人使用可选基础版；需要更好流媒体解锁、游戏专线与更多设备时选旗舰版；多人共享、需要高带宽与定制路由则选团队版。年付适合长期稳定使用者。</p></details><details><summary>流量用完或设备超限会怎样？</summary><p>流量每月重置，超额后可能降速。同时在线设备超过套餐上限时新连接可能失败，可断开闲置设备或升级套餐。升级通常即时生效。</p></details><details><summary>客户端导入后看不到节点或无法连接？</summary><p>先检查订阅是否完整复制并成功更新，尝试更换协议或节点。确认本地网络与系统时间正常。仍失败时更新客户端后再试，高级套餐可优先提交工单。</p></details><details><summary>是否支持退款或中途变更套餐？</summary><p>新订阅可在合理期限内通过工单申请处理，具体以当时说明为准。升级补差价即可，降级一般需待当前周期结束。团队版定制需求可联系客户经理。</p></details><details><summary>节点会更新吗？需要重新导入吗？</summary><p>线路会定期优化。客户端开启订阅自动更新后即可获取最新节点列表，通常无需反复手动导入。建议每周检查一次更新状态。</p></details></section><section id=\"ads\"><h2>广告与合作</h2><p>麦当当官网接受与网络工具、科技内容相关的展示合作。如需了解推广或链接交换，请通过工单提交合作意向。使用麦当当，让机场订阅与网络加速更直接高效。</p></section><section id=\"links\"><h2>友情链接</h2><ul><li><a href=\"#intro\">麦当当品牌简介</a></li><li><a href=\"#plans\">套餐对比与订阅</a></li><li><a href=\"#download\">官方客户端下载指引</a></li><li><a href=\"#faq\">常见问题帮助</a></li><li><a href=\"#\">更多加速相关资源</a></li></ul></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>麦当当官方网站 · 机场订阅与VPN加速服务</p><p>网站地图：<a href=\"#intro\">简介</a> · <a href=\"#scenes\">场景</a> · <a href=\"#steps\">操作步骤</a> · <a href=\"#plans\">套餐对比</a> · <a href=\"#download\">客户端下载</a> · <a href=\"#faq\">常见问题</a> · <a href=\"#ads\">广告合作</a> · <a href=\"#links\">友情链接</a></p><p>© 麦当当 保留所有权利。使用服务请遵守所在地法律法规。</p></footer>",
+          "hash": "a6b26df39d0758e9fa06c586a4095899ddb3ea71eaef920394bf764ff3162051",
+          "seo": {
+            "title": "麦当当官网 | VPN梯子加速器与机场订阅客户端下载",
+            "keywords": "麦当当,麦当当机场,麦当当VPN,梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,官方网站",
+            "description": "麦当当提供稳定可靠的机场订阅服务与VPN加速器，支持多端客户端下载，覆盖流媒体解锁、游戏加速等场景，套餐灵活，欢迎访问官网获取官方下载。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "youxiangtuan.cn",
+    "host": "p-7b92bf11e7.youxiangtuan.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "youxiangtuan.cn",
+      "url": "https://youxiangtuan.cn/",
+      "label": "忍者云(RenzheCloud)",
+      "apex": "youxiangtuan.cn",
+      "kind": null,
+      "identity": "yeqbrungek/page-6ed106face728fe439a8d3cd"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "193e946aa77ac1e9c7d6a2ca344524dc28d84b12b0aa8d3df47515b12064f8e4",
+    "sitemap.xml": "9fdd10976254826c2239717b52bfdc098ff0896098aafbf00afa64a12bc1406a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f8dc19920d6082727fbf7fa8f76de4f79395809526d30cffff3cf98b6364aa08",
+    "robots.txt": "beb07f8044057f4b2b3869936c9c2e933004faaf0c4ef65ffdb70d1b8c4ae956",
+    "15e3a8082d23f642fe756354067c2f46.txt": "4e49aaabed73e8f725f8295ea8855aa4e035dffe4756aaec9e17aed7bc12d9b1"
+  },
+  "revision": "b57cb45a26df85feb4636a3022e72adc57d9563d8f3de06b7b4936b8b6d8bb6b"
+}
